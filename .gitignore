@@ -1,3 +1,7 @@
 node_modules/*
 dist/
 extension/content-script.js
+extension.crx
+extension.pem
+extension.zip
+.DS_Store

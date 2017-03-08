@@ -1,6 +1,6 @@
 {
-  "name": "immutablejs-console-object-formatters",
-  "version": "1.0.0",
+  "name": "promise-console-object-formatters",
+  "version": "0.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "immutable": "^3.7.6"
+    "bluebird": "^3.5.0"
   },
   "devDependencies": {
     "babel-core": "^6.7.4",
